@@ -1,0 +1,6 @@
+{
+  "name": "Lola Real Gold",
+  "description": "Minimalist luxury real gold jewelry store in Oakland Land, Lagos. 100% pure 18k/24k gold pieces with instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
